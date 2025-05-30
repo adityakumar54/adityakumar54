@@ -50,7 +50,7 @@
   <a href="mailto:adityakumar10128@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/adityakumar3345" target="_blank">
+  <a href="https://twitter.com/aditya3345" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href=https://aditya-kumar-54.netlify.app /" target="_blank">
