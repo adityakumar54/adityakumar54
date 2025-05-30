@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" alt="Cool dev office animation" />
+  <img src=https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif width="600" alt="Cool dev office animation" />
 </p>
 ✨ About Me
 
