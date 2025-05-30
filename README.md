@@ -53,7 +53,7 @@
   <a href="https://twitter.com/adityakumar3345" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href=https://aditya-kumar-54.netlify.app/" target="_blank">
+  <a href=https://aditya-kumar-54.netlify.app /" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
