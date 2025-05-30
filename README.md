@@ -1,17 +1,15 @@
-<!-- GitHub Profile README -->
-
 <h1 align="center">
-  Hey there! 👋 I'm Aditya Kumar
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi there 👋 I'm Aditya Kumar
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Open+Source+Contributor;MERN+Stack+Enthusiast;Lifelong+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+Web+Architect;Building+Beautiful+%26+Performant+Apps;Tech+Explorer+%7C+Pixel+Perfect+Code;Clean+Code+%7C+Creative+Minds+%7C+Cloud+Ready" />
 </p>
 
----
-
-### ✨ About Me
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" alt="Cool dev office animation" />
+</p>
+✨ About Me
 
 - 🎓 I'm a passionate developer who loves building web apps and solving real-world problems.
 - 💼 Currently working on: Ecommerce Website with payment authentication
